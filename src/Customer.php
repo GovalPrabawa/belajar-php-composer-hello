@@ -1,6 +1,6 @@
 <?php
 
-namespace Govalprogrammer\Belajar;
+namespace Govalprogrammer\BelajarPhpComposerHello;
 
 class Customer
 {
